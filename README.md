@@ -1,6 +1,6 @@
 # **<p align=center>RetroFilm Theme</p>**
 
-*<p align=center> Image pack for the Dawn Launcher on the MagicX Zero 28. The default themes included on the Zero28 tend to be very dark and cover a large majority of the art. Due to this I wanted to add an image pack that was a lot more clear and clean.</p>*
+*<p align=center> Image pack for the Dawn Launcher used on the MagicX Zero 28. The default themes included on the Zero 28 tend to be very dark and cover a large majority of the art. Due to this I wanted to add an image pack that was a lot more clear and clean.</p>*
 
 <br>
 
