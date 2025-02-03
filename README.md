@@ -13,6 +13,7 @@
 
 * Currently the theme is about 60% complete based on what systems the Dawn Launcher supports. Once all of the images are complete I'll be going back and tweaking logo alignment and quality.
 
+Download the Latest version in the releases section: https://github.com/GHROTIC/retrofilm-theme-magicx-dawn/releases
 
 
 
