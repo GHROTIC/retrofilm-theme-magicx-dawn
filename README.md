@@ -6,7 +6,7 @@
 
 | Theme Preview 1 | Theme Preview 2 |
 | -- | -- |
-| ![Preview Screenshot 1](https://github.com/GHROTIC/retrofilm-theme-magicx-dawn/blob/main/assets/preview/preview_ss1.jpg) | ![Preview Screenshot 2](https://github.com/GHROTIC/retrofilm-theme-magicx-dawn/blob/main/assets/preview/preview_ss2.jpg) |
+| ![Preview Screenshot 1](https://github.com/GHROTIC/retrofilm-theme-magicx-dawn/blob/main/assets/preview/preview_ss3.jpg) | ![Preview Screenshot 2](https://github.com/GHROTIC/retrofilm-theme-magicx-dawn/blob/main/assets/preview/preview_ss4.jpg) |
 
 
 ### **<p align=center>-= Notes =-</p>**
