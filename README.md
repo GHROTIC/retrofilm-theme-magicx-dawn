@@ -17,6 +17,8 @@
 
 Download the Latest version in the releases section: https://github.com/GHROTIC/retrofilm-theme-magicx-dawn/releases
 
+To match the color scheme in the images above (RetroFilmDark) you can download the latest Community Color Scheme JSON file at: https://github.com/Magicx-Breeze/Dawn/blob/main/json/ThemeColor.json (Click on Download raw file). Connect your Zero28 Handheld to your PC via the USB OTG Port and drop the file in: `\Internal shared storage\Android\data\magicx.mini.m\files\Config\json\`
+
 <br>
 
 
